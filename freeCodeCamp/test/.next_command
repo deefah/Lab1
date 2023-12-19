@@ -95,3 +95,4 @@ ls --color=auto
 rm codeAlly.svg
 rm style.css
 cp header.png images
+cp footer.jpeg images
